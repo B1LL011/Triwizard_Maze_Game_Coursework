@@ -7,10 +7,12 @@ So far, there are no official rules for the Triwizard Maze Game. In this project
 Python 3.9  
 Pygame 2.6.1
 ### Installation
+```cmd
 pip install pygame==2.6.1
-
+```
 ## Running the Program
 ### Windows Command Prompt:
-
-cd [This file path is your computer]
+```cmd
+cd C:\Users\
 python startMainGame.py
+```

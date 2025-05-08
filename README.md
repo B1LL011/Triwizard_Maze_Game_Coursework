@@ -10,6 +10,7 @@ Pygame 2.6.1
 pip install pygame==2.6.1
 
 ## Running the Program
+### Windows Command Prompt:
 
 cd [This file path is your computer]
 python startMainGame.py

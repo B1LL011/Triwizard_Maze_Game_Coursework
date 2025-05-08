@@ -13,7 +13,7 @@ pip install pygame==2.6.1
 ## Running the Program
 ### Windows Command Prompt:
 ```cmd
-cd C:\Users\Triwizard_Maze_Game-Coursework
+cd C:\Users\Triwizard_Maze_Game-Coursework-main
 python startMainGame.py
 ```
 ## Directory Content

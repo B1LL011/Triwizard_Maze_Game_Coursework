@@ -16,4 +16,15 @@ pip install pygame==2.6.1
 cd C:\Users\Triwizard-Maze-Game-Coursework--main
 python startMainGame.py
 ```
-### Directory Content
+## Directory Content
+### [chessSetting](chessSetting)
+
+### [chess_interaction](chess_interaction)
+
+### [screen_effect](screen_effect)
+
+### [all_image](all_image)
+
+### [audioNvidio](audioNvidio)
+
+### [startMainGame.py](startMainGame.py)

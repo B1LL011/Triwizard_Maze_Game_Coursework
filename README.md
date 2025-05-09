@@ -10,7 +10,7 @@ Our main chessboard:
 
 ![image](all_image/bg_pic.png)
 ## Dependencies
-Pycharm 2025
+Pycharm 2025  
 Python 3.9  
 Pygame 2.6.1
 ### Installation

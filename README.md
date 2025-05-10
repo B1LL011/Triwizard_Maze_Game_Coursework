@@ -27,20 +27,20 @@ python startMainGame.py
 ## Directory Content
 ### [chessSetting](chessSetting)
 ***
-#### [position_store.py](position_store.py)
+#### [position_store.py](chessSetting/position_store.py)
 Store the position coordinates of each square and the information about interactions with the pieces in a dictionary.
-#### [chess.py](chess.py)
+#### [chess.py](chessSetting/chess.py)
 The class of chess consists of some status flags and movement method.  
 Some high-level movement functions are defined outside the class to better accommodate Pygame's function calls.
 ### [chess_interaction](chess_interaction)
 ***
-#### [move_in_board.py](move_in_board.py)
+#### [move_in_board.py](chess_interaction/move_in_board.py)
 Define a function that handles how a chess piece moves on the board and how it responds to encountering enemies and magic traps.
-#### [trapSetting.py](trapSetting.py)
+#### [trapSetting.py](chess_interaction/trapSetting.py)
 Define a function that generates a new list of trap positions each time the game starts, ensuring they are different from previous positions.
 ### [screen_effect](screen_effect)
 ***
-#### [element_effect.py](element_effect.py)
+#### [element_effect.py](screen_effect/element_effect.py)
 Include functions about: die rotation, inputting prompt, showing text, counting down animation, and loading music.
 ### [all_image](all_image)
 ***

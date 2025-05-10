@@ -1,4 +1,5 @@
 # Triwizard-Maze-Game-Coursework
+**[Class-1, Team-6]**  
 This project was developed for the *LUC/BJTU course CNSCC.111* (taught by Dr. Hasan Ahmed) during the spring semester. Our team’s project was to develop a 2D strategy board game called Triwizard Maze Game, from the Harry Potter universe. [RealItemLink](https://www.amazon.co.uk/Goliath-Games-4331-06-Potter-Tri-Wizard/dp/B01LYHF6ER/ref=asc_df_B01LYHF6ER/?tag=googshopuk-21&linkCode=df0&hvadid=310869104636&hvpos=&hvnetw=g&hvrand=8971483422015750214&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046582&hvtargid=pla-379840404184&th=1)  
 If you have any questions, contect with *billkingiscool@gmail.com*
 ## About this game

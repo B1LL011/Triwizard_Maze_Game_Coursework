@@ -36,7 +36,8 @@ base_pos = [(45,46,47,48),(49,50,51,52),(53,54,55,56),(57,58,59,60)]
 gate_list = (1,8,15,22)
 position = {
     """
-    [x, y, whether be occupied, whether has a trap: 0(none), 1(self-positive), 2(self-negative), 3(others)]
+    [x, y, whether be occupied, whether has a trap: 0(none), 
+          1(self-positive), 2(self-negative), 3(others)]
     """
     # 1-28:from down to top clockwise
     1: [ 640, 629, 0, 0],
